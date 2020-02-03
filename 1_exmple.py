@@ -1,5 +1,3 @@
-import turtle
-
 def example():
     pass
 import turtle
